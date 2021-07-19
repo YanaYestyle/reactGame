@@ -1,2 +1,2 @@
-// очень широко, чтобы наверняка занять весь экран
+// for full width screen
 export const skyAndGroundWidth = 5000;
